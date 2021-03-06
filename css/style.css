@@ -1,0 +1,26 @@
+body {
+}
+
+.colortext1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #2196f3;
+}
+.colortex2 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #000;
+}
+.line-section {
+  display: flex;
+  flex-direction: row;
+}
+.nav-section {
+  flex-wrap: nowrap;
+}
